@@ -1,6 +1,6 @@
 # Traefik exemple
 
-Ce dépôt met à disposition une configuration basique de [Traefik](https://docs.traefik.io/), ainsi que quelques exemples d'utilisations.
+Ce dépôt met à disposition une configuration basique de [Traefik](https://docs.traefik.io/) ainsi que quelques exemples d'utilisations.
 
 ## Prérequis
 
