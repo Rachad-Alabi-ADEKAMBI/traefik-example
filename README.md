@@ -22,7 +22,7 @@ Vous pouvez ensuite vous rendre sur le [Dashboard](http://localhost/dashboard/#/
 Pour lancer les exemples, lancer la commande suivante :
 
 ```
-docker-compose -f ./samples/docker-compose.yml up -d
+docker-compose -f ./sample/docker-compose.yml up -d
 ```
 
 Ce docker-compose présente plusieurs cas de figures :
